@@ -29,7 +29,7 @@ namespace cursorproject.Controllers
             })
             .ToArray();
         }
-        [HttpGet("All", Name = "GetAllWeatherForecast")]
+        [HttpGet("Alldata", Name = "GetAllWeatherForecast")]
         public IEnumerable<WeatherForecast> GetAllWeatherForecast()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
