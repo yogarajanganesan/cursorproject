@@ -40,5 +40,24 @@ namespace cursorproject.Controllers
             })
             .ToArray();
         }
+        [HttpGet("{id}")]
+        public ActionResult<WeatherForecast> GetById(int id)
+        {
+            var data = Enumerable.Range(1, 15).Select(index => new WeatherForecast
+            {
+                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
+                TemperatureC = Random.Shared.Next(-20, 55),
+                Summary = Summaries[index - 1]
+            }).ToList();
+
+            var result = data.FirstOrDefault(x => data.IndexOf(x) + 1 == id);
+
+            if (result == null)
+            {
+                return NotFound($"Record with Id {id} not found");
+            }
+
+            return Ok(result);
+        }
     }
 }
