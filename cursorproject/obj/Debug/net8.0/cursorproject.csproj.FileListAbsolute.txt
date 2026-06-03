@@ -30,3 +30,4 @@ F:\Project\cursorproject\cursorproject\obj\Debug\net8.0\refint\cursorproject.dll
 F:\Project\cursorproject\cursorproject\obj\Debug\net8.0\cursorproject.pdb
 F:\Project\cursorproject\cursorproject\obj\Debug\net8.0\cursorproject.genruntimeconfig.cache
 F:\Project\cursorproject\cursorproject\obj\Debug\net8.0\ref\cursorproject.dll
+F:\Project\cursorproject\cursorproject\obj\Debug\net8.0\cursorproject.sourcelink.json
