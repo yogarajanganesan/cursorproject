@@ -30,7 +30,7 @@ namespace cursorproject.Controllers
             .ToArray();
         }
         [HttpGet("Alldata", Name = "GetAllWeatherForecast")]
-        public IEnumerable<WeatherForecast> GetAllWeatherForecastduplicate()
+        public IEnumerable<WeatherForecast> GetAllWeatherForecastduplicate1()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
