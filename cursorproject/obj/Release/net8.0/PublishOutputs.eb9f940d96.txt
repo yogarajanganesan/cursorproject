@@ -1,0 +1,12 @@
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\cursorproject.exe
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\dotnet-tools.json
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\cursorproject.dll
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\cursorproject.deps.json
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\cursorproject.runtimeconfig.json
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\cursorproject.pdb
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
