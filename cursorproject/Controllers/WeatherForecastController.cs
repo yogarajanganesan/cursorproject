@@ -8,7 +8,7 @@ namespace cursorproject.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Kishan", "Sujan", "Lingesh", "Soundhar", "Bharathi", "Jawahar", "Thiyagarajan", "Thanarajan", "Nagarajan", "Thangarajan","yogarajan","yogaraja","yogaraj","rajan","raja","raj"
+            "Kishan Y", "Sujan Y", "Lingesh J", "Soundhar S", "Bharathi T", "Jawahar G", "Thiyagarajan B", "Thanarajan C", "Nagarajan R", "Thangarajan R","Yogarajan G","Yogaraja G","Yogaraj G","Rajan G","Raja G","Raj G"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
