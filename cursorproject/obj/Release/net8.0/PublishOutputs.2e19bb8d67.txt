@@ -1,0 +1,12 @@
+F:\Project\cursorproject\publish\cursorproject.exe
+F:\Project\cursorproject\publish\appsettings.Development.json
+F:\Project\cursorproject\publish\appsettings.json
+F:\Project\cursorproject\publish\dotnet-tools.json
+F:\Project\cursorproject\publish\cursorproject.dll
+F:\Project\cursorproject\publish\cursorproject.deps.json
+F:\Project\cursorproject\publish\cursorproject.runtimeconfig.json
+F:\Project\cursorproject\publish\cursorproject.pdb
+F:\Project\cursorproject\publish\Microsoft.OpenApi.dll
+F:\Project\cursorproject\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\cursorproject\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\cursorproject\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

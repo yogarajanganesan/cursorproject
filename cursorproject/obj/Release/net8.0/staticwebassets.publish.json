@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "VI6mEey69OLCN2qMkSC+SxpiW4vAtKiF6ci5WRli9kQ=",
-  "Source": "cursorproject",
-  "BasePath": "_content/cursorproject",
-  "Mode": "Default",
-  "ManifestType": "Publish",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"pcRpYF4J8wq3omSsOuIujpgY1ZaTJbymR4rudj9a4VQ=","Source":"cursorproject","BasePath":"/","Mode":"Root","ManifestType":"Publish","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
