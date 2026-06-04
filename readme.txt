@@ -1,4 +1,4 @@
-Jenkins ur : http://192.168.1.4:8082/
+Jenkins url : http://192.168.1.4:8082/
 username :jenkinsadmin	
 pwd: Jenkin@2026
 
@@ -6,6 +6,8 @@ pwd: Jenkin@2026
 
 goto : C:\Users\User\Downloads\ngrok-v3-stable-windows-amd64.zip
 run : ngrok.exe
+
+port : 8082
 
 ngrok : https://dashboard.ngrok.com/get-started/setup/windows
 ngrok auth token : 3EeRzk2I5zdrk5iCQzUt1hYnrXK_5AZVC5Ybb9wxGh3nKXQGn
