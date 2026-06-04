@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f045591a6eb3043456b38a9e8b05b50dd85d277c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07d37467f3849df914a3051cf6e88cb5fa9be9a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
