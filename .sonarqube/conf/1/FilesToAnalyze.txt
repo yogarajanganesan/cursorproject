@@ -1,0 +1,8 @@
+﻿F:\Project\cursorproject\CursorprojectTest\Cursortests.cs
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\WINDOWS\system32\config\systemprofile\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Project\cursorproject\CursorprojectTest\TestResults\test-results.trx

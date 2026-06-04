@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cursorproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432295f24fa0a6362098ffc7b9308e1dad1c1e9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a14f85bdd298a63ab2bc5e52fe93d95d646641")]
 [assembly: System.Reflection.AssemblyProductAttribute("cursorproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cursorproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

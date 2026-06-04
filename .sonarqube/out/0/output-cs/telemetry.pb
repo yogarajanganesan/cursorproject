@@ -1,0 +1,1 @@
+HR;F:\Project\cursorproject\cursorproject\cursorproject.csprojòCSharp12

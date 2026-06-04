@@ -1,0 +1,13 @@
+﻿F:\Project\cursorproject\cursorproject\Controllers\WeatherForecastController.cs
+F:\Project\cursorproject\cursorproject\Program.cs
+F:\Project\cursorproject\cursorproject\WeatherForecast.cs
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\cursorproject.GlobalUsings.g.cs
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\cursorproject.AssemblyInfo.cs
+F:\Project\cursorproject\cursorproject\obj\Release\net8.0\cursorproject.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\cursorproject\cursorproject\appsettings.Development.json
+F:\Project\cursorproject\cursorproject\appsettings.json
+F:\Project\cursorproject\cursorproject\dotnet-tools.json
+F:\Project\cursorproject\cursorproject\cursorproject.http
+F:\Project\cursorproject\cursorproject\Properties\launchSettings.json
+F:\Project\cursorproject\cursorproject\Properties\PublishProfiles\FolderProfile.pubxml

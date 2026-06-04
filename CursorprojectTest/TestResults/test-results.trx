@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="6f8a9bd5-0562-4a48-aeac-66bf64cc48b4" name="DESKTOP-UVM9DO9$@DESKTOP-UVM9DO9 2026-06-04 06:19:38" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-06-04T06:19:38.3632773+05:30" queuing="2026-06-04T06:19:38.3632777+05:30" start="2026-06-04T06:19:37.8325216+05:30" finish="2026-06-04T06:19:38.3890151+05:30" />
+  <TestSettings name="default" id="6b2b276e-f29c-4153-a712-93a98ce177ab">
+    <Deployment runDeploymentRoot="DESKTOP-UVM9DO9$_DESKTOP-UVM9DO9_2026-06-04_06_19_38" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="0a029bd8-eb2f-480f-9020-392b84a42ba5" testId="020265f9-4a91-1ea3-fab0-050c0ea65db8" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 5, expectedSummary: &quot;Bharathi T&quot;)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0001359" startTime="2026-06-04T06:19:38.3437501+05:30" endTime="2026-06-04T06:19:38.3437502+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a029bd8-eb2f-480f-9020-392b84a42ba5" />
+    <UnitTestResult executionId="891b8d59-295c-432b-8382-6224175ace31" testId="aacf5262-9088-7b55-8046-b089960e5f13" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 5)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0001084" startTime="2026-06-04T06:19:38.3438881+05:30" endTime="2026-06-04T06:19:38.3438881+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="891b8d59-295c-432b-8382-6224175ace31" />
+    <UnitTestResult executionId="23151537-923d-42e6-a878-47cdde184b3e" testId="427e7ddf-6f65-9bfd-1f7d-ae953b57ce0e" testName="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 0)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0001060" startTime="2026-06-04T06:19:38.3221257+05:30" endTime="2026-06-04T06:19:38.3221258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23151537-923d-42e6-a878-47cdde184b3e" />
+    <UnitTestResult executionId="1f96f88e-54b0-4c8f-b356-2e2973a695b3" testId="c1e27319-66a4-4a1c-5f60-42bcc2060176" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 15)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000108" startTime="2026-06-04T06:19:38.3439104+05:30" endTime="2026-06-04T06:19:38.3439104+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1f96f88e-54b0-4c8f-b356-2e2973a695b3" />
+    <UnitTestResult executionId="79dcb602-2076-4b09-9936-e65f9e7fc7dc" testId="e261a476-db59-7804-168a-037ad9bee443" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 1)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0001106" startTime="2026-06-04T06:19:38.3438755+05:30" endTime="2026-06-04T06:19:38.3438755+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79dcb602-2076-4b09-9936-e65f9e7fc7dc" />
+    <UnitTestResult executionId="47fb25bc-5da9-4922-9cb4-3a8b67ce60a7" testId="1343803d-2729-2657-8755-16543e7131a1" testName="CursorprojectTest.Cursortests.GetAllWeatherForecastduplicate2_Returns15Items" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0329113" startTime="2026-06-04T06:19:38.3182541+05:30" endTime="2026-06-04T06:19:38.3182755+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47fb25bc-5da9-4922-9cb4-3a8b67ce60a7" />
+    <UnitTestResult executionId="3c57a9b9-bc2d-4db0-80ba-e26e4df6c9e5" testId="8bf20c71-4f2d-f4de-81ff-9c1e93beac90" testName="CursorprojectTest.Cursortests.GetById_NegativeId_ReturnsNotFound(id: -100)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0003882" startTime="2026-06-04T06:19:38.3225788+05:30" endTime="2026-06-04T06:19:38.3225788+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3c57a9b9-bc2d-4db0-80ba-e26e4df6c9e5" />
+    <UnitTestResult executionId="fa117cfc-45dc-47bd-a782-d53c2bb2631d" testId="d9ee832d-6018-09c0-b988-ae16bc76cf69" testName="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsExpectedNotFoundMessage(id: 0)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0039191" startTime="2026-06-04T06:19:38.3215064+05:30" endTime="2026-06-04T06:19:38.3215065+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa117cfc-45dc-47bd-a782-d53c2bb2631d" />
+    <UnitTestResult executionId="d2b22320-089a-4299-bdb1-f648e87d7087" testId="5222a0a8-7ac7-b5b0-cff5-c2b2b758d7c3" testName="CursorprojectTest.Cursortests.Get_ShouldNotReturnNullOrEmpty" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0003055" startTime="2026-06-04T06:19:38.3439265+05:30" endTime="2026-06-04T06:19:38.3439266+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2b22320-089a-4299-bdb1-f648e87d7087" />
+    <UnitTestResult executionId="d67b5c7b-525e-4895-9122-7e4b058bd012" testId="7f4f9fb3-72e7-a770-0d57-1250714b0d4f" testName="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 16)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000786" startTime="2026-06-04T06:19:38.3219956+05:30" endTime="2026-06-04T06:19:38.3219956+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d67b5c7b-525e-4895-9122-7e4b058bd012" />
+    <UnitTestResult executionId="44cdf365-0fe5-44ec-b389-0e1075a4338b" testId="424898d7-7011-71d5-9e5c-ee77803fbfa4" testName="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsExpectedNotFoundMessage(id: 16)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0003379" startTime="2026-06-04T06:19:38.3218751+05:30" endTime="2026-06-04T06:19:38.3218752+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44cdf365-0fe5-44ec-b389-0e1075a4338b" />
+    <UnitTestResult executionId="37c3cd7f-f11f-442f-bde8-d504a10d582d" testId="fcaec947-0634-d40e-7467-64fb3d911798" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 1, expectedSummary: &quot;Kishan Y&quot;)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000101" startTime="2026-06-04T06:19:38.3438550+05:30" endTime="2026-06-04T06:19:38.3438551+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37c3cd7f-f11f-442f-bde8-d504a10d582d" />
+    <UnitTestResult executionId="7de6b1d8-d31b-4afe-b1a9-2f0cd70d3d17" testId="01992407-164f-dec4-5cec-78197dfe3d2b" testName="CursorprojectTest.Cursortests.GetAllWeatherForecastduplicate2_ShouldNotReturnNullOrEmpty" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000434" startTime="2026-06-04T06:19:38.3439603+05:30" endTime="2026-06-04T06:19:38.3439604+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7de6b1d8-d31b-4afe-b1a9-2f0cd70d3d17" />
+    <UnitTestResult executionId="e2c1a7ca-02cb-4d93-abf1-39af45bfd244" testId="e3b591ea-651b-6954-57c1-2da85a368e92" testName="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 15, expectedSummary: &quot;Raja G&quot;)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0003183" startTime="2026-06-04T06:19:38.3230695+05:30" endTime="2026-06-04T06:19:38.3230695+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e2c1a7ca-02cb-4d93-abf1-39af45bfd244" />
+    <UnitTestResult executionId="ecd35dca-d52c-4c63-9b79-a3f4e728ad4a" testId="5e0069a9-125c-3308-07c5-2e5bfc2dceeb" testName="CursorprojectTest.Cursortests.GetById_NegativeId_ReturnsNotFound(id: -1)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0001093" startTime="2026-06-04T06:19:38.3227131+05:30" endTime="2026-06-04T06:19:38.3227132+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ecd35dca-d52c-4c63-9b79-a3f4e728ad4a" />
+    <UnitTestResult executionId="b7d8ab97-1da6-43b6-8ab3-3064eb64d8ee" testId="c02c4c89-7d1f-96b6-2451-5552168931ba" testName="CursorprojectTest.Cursortests.Get_Returns15Items" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000771" startTime="2026-06-04T06:19:38.3439448+05:30" endTime="2026-06-04T06:19:38.3439449+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7d8ab97-1da6-43b6-8ab3-3064eb64d8ee" />
+    <UnitTestResult executionId="32c12900-73ff-42e0-a5ae-042dacbbf4b8" testId="b0ecd3ec-b67e-88a9-3be8-ab70e8d0893e" testName="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 100)" computerName="DESKTOP-UVM9DO9" duration="00:00:00.0000140" startTime="2026-06-04T06:19:38.3221650+05:30" endTime="2026-06-04T06:19:38.3221651+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32c12900-73ff-42e0-a5ae-042dacbbf4b8" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 15)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="c1e27319-66a4-4a1c-5f60-42bcc2060176">
+      <Execution id="1f96f88e-54b0-4c8f-b356-2e2973a695b3" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsOk" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 15, expectedSummary: &quot;Raja G&quot;)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="e3b591ea-651b-6954-57c1-2da85a368e92">
+      <Execution id="e2c1a7ca-02cb-4d93-abf1-39af45bfd244" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsExpectedWeatherForecast" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 16)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="7f4f9fb3-72e7-a770-0d57-1250714b0d4f">
+      <Execution id="d67b5c7b-525e-4895-9122-7e4b058bd012" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_InvalidId_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 5)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="aacf5262-9088-7b55-8046-b089960e5f13">
+      <Execution id="891b8d59-295c-432b-8382-6224175ace31" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsOk" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsExpectedNotFoundMessage(id: 0)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="d9ee832d-6018-09c0-b988-ae16bc76cf69">
+      <Execution id="fa117cfc-45dc-47bd-a782-d53c2bb2631d" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_InvalidId_ReturnsExpectedNotFoundMessage" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsOk(id: 1)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="e261a476-db59-7804-168a-037ad9bee443">
+      <Execution id="79dcb602-2076-4b09-9936-e65f9e7fc7dc" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsOk" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_NegativeId_ReturnsNotFound(id: -1)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="5e0069a9-125c-3308-07c5-2e5bfc2dceeb">
+      <Execution id="ecd35dca-d52c-4c63-9b79-a3f4e728ad4a" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_NegativeId_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 0)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="427e7ddf-6f65-9bfd-1f7d-ae953b57ce0e">
+      <Execution id="23151537-923d-42e6-a878-47cdde184b3e" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_InvalidId_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetAllWeatherForecastduplicate2_ShouldNotReturnNullOrEmpty" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="01992407-164f-dec4-5cec-78197dfe3d2b">
+      <Execution id="7de6b1d8-d31b-4afe-b1a9-2f0cd70d3d17" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetAllWeatherForecastduplicate2_ShouldNotReturnNullOrEmpty" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_NegativeId_ReturnsNotFound(id: -100)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="8bf20c71-4f2d-f4de-81ff-9c1e93beac90">
+      <Execution id="3c57a9b9-bc2d-4db0-80ba-e26e4df6c9e5" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_NegativeId_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsNotFound(id: 100)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="b0ecd3ec-b67e-88a9-3be8-ab70e8d0893e">
+      <Execution id="32c12900-73ff-42e0-a5ae-042dacbbf4b8" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_InvalidId_ReturnsNotFound" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_InvalidId_ReturnsExpectedNotFoundMessage(id: 16)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="424898d7-7011-71d5-9e5c-ee77803fbfa4">
+      <Execution id="44cdf365-0fe5-44ec-b389-0e1075a4338b" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_InvalidId_ReturnsExpectedNotFoundMessage" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetAllWeatherForecastduplicate2_Returns15Items" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="1343803d-2729-2657-8755-16543e7131a1">
+      <Execution id="47fb25bc-5da9-4922-9cb4-3a8b67ce60a7" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetAllWeatherForecastduplicate2_Returns15Items" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 5, expectedSummary: &quot;Bharathi T&quot;)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="020265f9-4a91-1ea3-fab0-050c0ea65db8">
+      <Execution id="0a029bd8-eb2f-480f-9020-392b84a42ba5" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsExpectedWeatherForecast" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.Get_ShouldNotReturnNullOrEmpty" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="5222a0a8-7ac7-b5b0-cff5-c2b2b758d7c3">
+      <Execution id="d2b22320-089a-4299-bdb1-f648e87d7087" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="Get_ShouldNotReturnNullOrEmpty" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.GetById_ValidId_ReturnsExpectedWeatherForecast(id: 1, expectedSummary: &quot;Kishan Y&quot;)" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="fcaec947-0634-d40e-7467-64fb3d911798">
+      <Execution id="37c3cd7f-f11f-442f-bde8-d504a10d582d" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="GetById_ValidId_ReturnsExpectedWeatherForecast" />
+    </UnitTest>
+    <UnitTest name="CursorprojectTest.Cursortests.Get_Returns15Items" storage="f:\project\cursorproject\cursorprojecttest\bin\release\net8.0\cursorprojecttest.dll" id="c02c4c89-7d1f-96b6-2451-5552168931ba">
+      <Execution id="b7d8ab97-1da6-43b6-8ab3-3064eb64d8ee" />
+      <TestMethod codeBase="F:\Project\cursorproject\CursorprojectTest\bin\Release\net8.0\CursorprojectTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CursorprojectTest.Cursortests" name="Get_Returns15Items" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="020265f9-4a91-1ea3-fab0-050c0ea65db8" executionId="0a029bd8-eb2f-480f-9020-392b84a42ba5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aacf5262-9088-7b55-8046-b089960e5f13" executionId="891b8d59-295c-432b-8382-6224175ace31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="427e7ddf-6f65-9bfd-1f7d-ae953b57ce0e" executionId="23151537-923d-42e6-a878-47cdde184b3e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1e27319-66a4-4a1c-5f60-42bcc2060176" executionId="1f96f88e-54b0-4c8f-b356-2e2973a695b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e261a476-db59-7804-168a-037ad9bee443" executionId="79dcb602-2076-4b09-9936-e65f9e7fc7dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1343803d-2729-2657-8755-16543e7131a1" executionId="47fb25bc-5da9-4922-9cb4-3a8b67ce60a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8bf20c71-4f2d-f4de-81ff-9c1e93beac90" executionId="3c57a9b9-bc2d-4db0-80ba-e26e4df6c9e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9ee832d-6018-09c0-b988-ae16bc76cf69" executionId="fa117cfc-45dc-47bd-a782-d53c2bb2631d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5222a0a8-7ac7-b5b0-cff5-c2b2b758d7c3" executionId="d2b22320-089a-4299-bdb1-f648e87d7087" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f4f9fb3-72e7-a770-0d57-1250714b0d4f" executionId="d67b5c7b-525e-4895-9122-7e4b058bd012" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="424898d7-7011-71d5-9e5c-ee77803fbfa4" executionId="44cdf365-0fe5-44ec-b389-0e1075a4338b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fcaec947-0634-d40e-7467-64fb3d911798" executionId="37c3cd7f-f11f-442f-bde8-d504a10d582d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="01992407-164f-dec4-5cec-78197dfe3d2b" executionId="7de6b1d8-d31b-4afe-b1a9-2f0cd70d3d17" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3b591ea-651b-6954-57c1-2da85a368e92" executionId="e2c1a7ca-02cb-4d93-abf1-39af45bfd244" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e0069a9-125c-3308-07c5-2e5bfc2dceeb" executionId="ecd35dca-d52c-4c63-9b79-a3f4e728ad4a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c02c4c89-7d1f-96b6-2451-5552168931ba" executionId="b7d8ab97-1da6-43b6-8ab3-3064eb64d8ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b0ecd3ec-b67e-88a9-3be8-ab70e8d0893e" executionId="32c12900-73ff-42e0-a5ae-042dacbbf4b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="17" executed="17" passed="17" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 8.0.27)&#xD;
+[xUnit.net 00:00:00.06]   Discovering: CursorprojectTest&#xD;
+[xUnit.net 00:00:00.09]   Discovered:  CursorprojectTest&#xD;
+[xUnit.net 00:00:00.09]   Starting:    CursorprojectTest&#xD;
+[xUnit.net 00:00:00.19]   Finished:    CursorprojectTest&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
