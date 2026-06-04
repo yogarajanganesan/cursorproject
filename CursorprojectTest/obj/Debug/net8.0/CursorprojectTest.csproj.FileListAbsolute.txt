@@ -110,5 +110,4 @@ F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\refint\Cursorproject
 F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\CursorprojectTest.pdb
 F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\CursorprojectTest.genruntimeconfig.cache
 F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\ref\CursorprojectTest.dll
-F:\Project\cursorproject\CursorprojectTest\bin\Debug\net8.0\cursorproject.staticwebassets.endpoints.json
-F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\Cursorpr.C3B2D4EF.Up2Date
+F:\Project\cursorproject\CursorprojectTest\obj\Debug\net8.0\CursorprojectTest.csproj.CopyComplete
