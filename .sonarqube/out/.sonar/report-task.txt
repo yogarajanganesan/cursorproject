@@ -2,5 +2,5 @@ projectKey=cursorproject
 serverUrl=http://localhost:9000
 serverVersion=26.5.0.122743
 dashboardUrl=http://localhost:9000/dashboard?id=cursorproject
-ceTaskId=78961252-e9fc-43d0-88aa-34da7f6b655b
-ceTaskUrl=http://localhost:9000/api/ce/task?id=78961252-e9fc-43d0-88aa-34da7f6b655b
+ceTaskId=792c3604-b47e-4817-9997-4b63d6c5d327
+ceTaskUrl=http://localhost:9000/api/ce/task?id=792c3604-b47e-4817-9997-4b63d6c5d327

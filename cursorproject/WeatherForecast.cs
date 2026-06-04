@@ -10,7 +10,7 @@ namespace cursorproject
 
         public string? Summary { get; set; }
         public string ResponseDateTime { get; set; } = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-        public string RequestDateTime { get; set; }
+        public string? RequestDateTime { get; set; }
 
 
 
