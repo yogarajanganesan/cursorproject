@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f045591a6eb3043456b38a9e8b05b50dd85d277c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8746c4b831ba65df2eb7cfdcb5234c40a940f02")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursorprojectTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

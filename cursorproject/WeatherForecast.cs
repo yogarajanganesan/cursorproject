@@ -9,9 +9,10 @@ namespace cursorproject
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         public string? Summary { get; set; }
-        public string RequestedDateTime { get; set; } = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        public string ResponseDateTime { get; set; } = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        public string RequestDateTime { get; set; }
 
-        
+
 
     }
 }

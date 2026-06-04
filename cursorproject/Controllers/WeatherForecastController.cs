@@ -25,7 +25,8 @@ namespace cursorproject.Controllers
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+                Summary = Summaries[Random.Shared.Next(Summaries.Length)],
+                RequestDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
             })
             .ToArray();
         }
@@ -36,7 +37,8 @@ namespace cursorproject.Controllers
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+                Summary = Summaries[Random.Shared.Next(Summaries.Length)],
+                RequestDateTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
             })
             .ToArray();
         }
@@ -47,7 +49,8 @@ namespace cursorproject.Controllers
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[index - 1]
+                Summary = Summaries[index - 1],
+                RequestDateTime=DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")
             }).ToList();
 
             var result = data.FirstOrDefault(x => data.IndexOf(x) + 1 == id);
